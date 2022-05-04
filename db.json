@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "signupUsers": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "username": "hexuan",
+      "email": "hexuan@gmail.com",
+      "password": "123123",
+      "id": 2
+    },
+    {
+      "username": "hehehexuanxuanxuan",
+      "email": "123@gmail.com",
+      "password": "123123",
+      "id": 3
+    }
+  ]
+}
